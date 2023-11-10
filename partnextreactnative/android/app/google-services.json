@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391241503152",
+    "project_id": "partnext-78e3f",
+    "storage_bucket": "partnext-78e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391241503152:android:0fcf602cfcc8995c518675",
+        "android_client_info": {
+          "package_name": "com.partnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391241503152-bf7gm51ul0erjfcbm50cuo2uqj7hbslt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUn8RMPIyx6Z-XrmSW4T_ticoXA7ERNBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391241503152-bf7gm51ul0erjfcbm50cuo2uqj7hbslt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
